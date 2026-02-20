@@ -1,13 +1,29 @@
 {
-  "url": "https://www.bilibili.com",
+  "url": "https://app.luckyx.world/",
   "error_type": null,
   "intercept_suspected": false,
   "antibot": {
-    "极验GeeTest": {
+    "Cloudflare": {
+      "confidence": 65,
+      "tier": "tier2",
+      "evidence": [
+        "hdr:cf-ray=9d0c3faa4fe91e1d-LAX",
+        "hdr:server=cloudflare",
+        "html:/challenges\\.cloudflare\\.com/ +15"
+      ]
+    },
+    "Cloudflare Turnstile": {
       "confidence": 40,
       "tier": "tier2+captcha",
       "evidence": [
-        "html:/static\\.geetest\\.com/ +40"
+        "html:/challenges\\.cloudflare\\.com/tu/ +40"
+      ]
+    },
+    "reCAPTCHA": {
+      "confidence": 40,
+      "tier": "tier2+captcha",
+      "evidence": [
+        "html:/google\\.com/recaptcha/ +40"
       ]
     }
   },
@@ -24,8 +40,28 @@
       "categories": [
         "JavaScript frameworks"
       ]
+    },
+    "reCAPTCHA": {
+      "categories": [
+        "Security"
+      ]
+    },
+    "Cloudflare": {
+      "categories": [
+        "CDN"
+      ]
+    },
+    "Node.js": {
+      "categories": [
+        "Programming languages"
+      ]
+    },
+    "Nuxt.js": {
+      "categories": [
+        "JavaScript frameworks"
+      ]
     }
   },
-  "tier_verdict": "tier2+captcha",
+  "tier_verdict": "tier2",
   "need_captcha_solver": true
 }
