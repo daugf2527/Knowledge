@@ -1,0 +1,1025 @@
+[
+  {
+    "idx": 1,
+    "category": "Web3-任务",
+    "url": "https://app.galxe.com",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [],
+    "antibot_conf": {},
+    "tier": "tier1",
+    "captcha": false,
+    "tech": [
+      "Next.js",
+      "GA4"
+    ],
+    "wapp": [
+      "Cart Functionality",
+      "Envoy",
+      "Google Cloud"
+    ]
+  },
+  {
+    "idx": 2,
+    "category": "Web3-任务",
+    "url": "https://zealy.io",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [],
+    "antibot_conf": {},
+    "tier": "tier1",
+    "captcha": false,
+    "tech": [
+      "Next.js",
+      "CloudFront",
+      "GA4"
+    ],
+    "wapp": [
+      "Amazon Cloudfront",
+      "React",
+      "Amazon Web Services",
+      "webpack"
+    ]
+  },
+  {
+    "idx": 3,
+    "category": "Web3-任务",
+    "url": "https://layer3.xyz",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [
+      "Cloudflare"
+    ],
+    "antibot_conf": {
+      "Cloudflare": 50
+    },
+    "tier": "tier2",
+    "captcha": false,
+    "tech": [
+      "Next.js",
+      "GA4"
+    ],
+    "wapp": [
+      "Cloudflare",
+      "React",
+      "webpack",
+      "Node.js"
+    ]
+  },
+  {
+    "idx": 4,
+    "category": "Web3-任务",
+    "url": "https://guild.xyz",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [
+      "Cloudflare"
+    ],
+    "antibot_conf": {
+      "Cloudflare": 50
+    },
+    "tier": "tier2",
+    "captcha": false,
+    "tech": [
+      "Next.js",
+      "GA4"
+    ],
+    "wapp": [
+      "Cloudflare",
+      "React",
+      "webpack",
+      "Node.js"
+    ]
+  },
+  {
+    "idx": 5,
+    "category": "Web3-任务",
+    "url": "https://taskon.xyz",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [
+      "Cloudflare"
+    ],
+    "antibot_conf": {
+      "Cloudflare": 50
+    },
+    "tier": "tier2",
+    "captcha": false,
+    "tech": [
+      "GA4"
+    ],
+    "wapp": [
+      "Cloudflare"
+    ]
+  },
+  {
+    "idx": 6,
+    "category": "Web3-任务",
+    "url": "https://questn.com",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [
+      "Cloudflare"
+    ],
+    "antibot_conf": {
+      "Cloudflare": 50
+    },
+    "tier": "tier2",
+    "captcha": false,
+    "tech": [
+      "Next.js",
+      "GA4"
+    ],
+    "wapp": [
+      "Cloudflare",
+      "React",
+      "webpack",
+      "Node.js"
+    ]
+  },
+  {
+    "idx": 7,
+    "category": "Web3-任务",
+    "url": "https://intract.io",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [
+      "Cloudflare"
+    ],
+    "antibot_conf": {
+      "Cloudflare": 50
+    },
+    "tier": "tier2",
+    "captcha": false,
+    "tech": [
+      "GA4"
+    ],
+    "wapp": [
+      "Cloudflare",
+      "Google Font API"
+    ]
+  },
+  {
+    "idx": 8,
+    "category": "Web3-任务",
+    "url": "https://crew3.xyz",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [],
+    "antibot_conf": {},
+    "tier": "tier1",
+    "captcha": false,
+    "tech": [
+      "Next.js",
+      "CloudFront",
+      "GA4"
+    ],
+    "wapp": [
+      "Amazon Cloudfront",
+      "React",
+      "Amazon Web Services",
+      "webpack"
+    ]
+  },
+  {
+    "idx": 9,
+    "category": "Web3-任务",
+    "url": "https://rabbithole.gg",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [
+      "Vercel WAF"
+    ],
+    "antibot_conf": {
+      "Vercel WAF": 25
+    },
+    "tier": "tier2",
+    "captcha": false,
+    "tech": [
+      "Next.js",
+      "Vercel",
+      "GA4"
+    ],
+    "wapp": [
+      "React",
+      "webpack",
+      "Node.js",
+      "Vercel"
+    ]
+  },
+  {
+    "idx": 10,
+    "category": "Web3-任务",
+    "url": "https://app.debank.com",
+    "status": "FETCH_FAILED[SSL_ERROR]",
+    "intercept": true,
+    "antibot": [],
+    "antibot_conf": {},
+    "tier": "tier3",
+    "captcha": false,
+    "tech": [],
+    "wapp": []
+  },
+  {
+    "idx": 11,
+    "category": "Web3-DeFi",
+    "url": "https://app.uniswap.org",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [
+      "Cloudflare",
+      "Cloudflare Turnstile"
+    ],
+    "antibot_conf": {
+      "Cloudflare": 65,
+      "Cloudflare Turnstile": 40
+    },
+    "tier": "tier2",
+    "captcha": true,
+    "tech": [],
+    "wapp": [
+      "Cloudflare"
+    ]
+  },
+  {
+    "idx": 12,
+    "category": "Web3-DeFi",
+    "url": "https://app.aave.com",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [
+      "Cloudflare",
+      "Vercel WAF"
+    ],
+    "antibot_conf": {
+      "Cloudflare": 50,
+      "Vercel WAF": 25
+    },
+    "tier": "tier2",
+    "captcha": false,
+    "tech": [
+      "Next.js",
+      "Vercel"
+    ],
+    "wapp": [
+      "Cloudflare",
+      "Vercel"
+    ]
+  },
+  {
+    "idx": 13,
+    "category": "Web3-DeFi",
+    "url": "https://app.compound.finance",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [
+      "Cloudflare"
+    ],
+    "antibot_conf": {
+      "Cloudflare": 50
+    },
+    "tier": "tier2",
+    "captcha": false,
+    "tech": [],
+    "wapp": [
+      "Cloudflare"
+    ]
+  },
+  {
+    "idx": 14,
+    "category": "Web3-DeFi",
+    "url": "https://app.1inch.io",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [
+      "Cloudflare"
+    ],
+    "antibot_conf": {
+      "Cloudflare": 50
+    },
+    "tier": "tier2",
+    "captcha": false,
+    "tech": [
+      "GA4",
+      "Intercom"
+    ],
+    "wapp": [
+      "Cloudflare",
+      "Angular"
+    ]
+  },
+  {
+    "idx": 15,
+    "category": "Web3-DeFi",
+    "url": "https://stargate.finance",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [
+      "Vercel WAF"
+    ],
+    "antibot_conf": {
+      "Vercel WAF": 25
+    },
+    "tier": "tier2",
+    "captcha": false,
+    "tech": [
+      "Next.js",
+      "Vercel",
+      "GA4"
+    ],
+    "wapp": [
+      "Google Font API",
+      "Vercel"
+    ]
+  },
+  {
+    "idx": 16,
+    "category": "Web3-DeFi",
+    "url": "https://curve.fi",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [
+      "Cloudflare",
+      "Vercel WAF"
+    ],
+    "antibot_conf": {
+      "Cloudflare": 50,
+      "Vercel WAF": 25
+    },
+    "tier": "tier2",
+    "captcha": false,
+    "tech": [
+      "Vercel"
+    ],
+    "wapp": [
+      "Cloudflare",
+      "Vercel",
+      "jsDelivr"
+    ]
+  },
+  {
+    "idx": 17,
+    "category": "Web3-NFT",
+    "url": "https://opensea.io",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [
+      "Cloudflare"
+    ],
+    "antibot_conf": {
+      "Cloudflare": 50
+    },
+    "tier": "tier2",
+    "captcha": false,
+    "tech": [],
+    "wapp": [
+      "Cloudflare"
+    ]
+  },
+  {
+    "idx": 18,
+    "category": "Web3-NFT",
+    "url": "https://blur.io",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [
+      "Vercel WAF"
+    ],
+    "antibot_conf": {
+      "Vercel WAF": 25
+    },
+    "tier": "tier2",
+    "captcha": false,
+    "tech": [
+      "Next.js",
+      "Vercel",
+      "GA4"
+    ],
+    "wapp": [
+      "Vercel"
+    ]
+  },
+  {
+    "idx": 19,
+    "category": "Web3-NFT",
+    "url": "https://magiceden.io",
+    "status": "ok",
+    "intercept": true,
+    "antibot": [
+      "Cloudflare"
+    ],
+    "antibot_conf": {
+      "Cloudflare": 50
+    },
+    "tier": "tier2",
+    "captcha": false,
+    "tech": [],
+    "wapp": [
+      "Cloudflare"
+    ]
+  },
+  {
+    "idx": 20,
+    "category": "Web3-NFT",
+    "url": "https://rarible.com",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [
+      "Cloudflare"
+    ],
+    "antibot_conf": {
+      "Cloudflare": 50
+    },
+    "tier": "tier2",
+    "captcha": false,
+    "tech": [
+      "Next.js",
+      "GA4"
+    ],
+    "wapp": [
+      "Cloudflare",
+      "React",
+      "webpack",
+      "Node.js"
+    ]
+  },
+  {
+    "idx": 21,
+    "category": "Web3-L2",
+    "url": "https://zksync.io",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [
+      "Vercel WAF"
+    ],
+    "antibot_conf": {
+      "Vercel WAF": 25
+    },
+    "tier": "tier2",
+    "captcha": false,
+    "tech": [
+      "Next.js",
+      "Vercel",
+      "GA4"
+    ],
+    "wapp": [
+      "React",
+      "Vercel"
+    ]
+  },
+  {
+    "idx": 22,
+    "category": "Web3-L2",
+    "url": "https://linea.build",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [
+      "Cloudflare",
+      "Fastly Shield"
+    ],
+    "antibot_conf": {
+      "Cloudflare": 50,
+      "Fastly Shield": 25
+    },
+    "tier": "tier2",
+    "captcha": false,
+    "tech": [
+      "Next.js",
+      "Fastly CDN",
+      "GA4"
+    ],
+    "wapp": [
+      "Cloudflare",
+      "Contentful",
+      "Ruby on Rails",
+      "Fastly"
+    ]
+  },
+  {
+    "idx": 23,
+    "category": "Web3-L2",
+    "url": "https://scroll.io",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [
+      "Cloudflare",
+      "Vercel WAF"
+    ],
+    "antibot_conf": {
+      "Cloudflare": 50,
+      "Vercel WAF": 25
+    },
+    "tier": "tier2",
+    "captcha": false,
+    "tech": [
+      "Next.js",
+      "Vercel",
+      "GA4"
+    ],
+    "wapp": [
+      "Cloudflare",
+      "Vercel"
+    ]
+  },
+  {
+    "idx": 24,
+    "category": "Web3-L2",
+    "url": "https://www.optimism.io",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [
+      "Cloudflare"
+    ],
+    "antibot_conf": {
+      "Cloudflare": 50
+    },
+    "tier": "tier2",
+    "captcha": false,
+    "tech": [
+      "GA4",
+      "Segment",
+      "Mixpanel"
+    ],
+    "wapp": [
+      "Cloudflare"
+    ]
+  },
+  {
+    "idx": 25,
+    "category": "Web3-L2",
+    "url": "https://arbitrum.io",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [
+      "Cloudflare",
+      "Vercel WAF"
+    ],
+    "antibot_conf": {
+      "Cloudflare": 50,
+      "Vercel WAF": 25
+    },
+    "tier": "tier2",
+    "captcha": false,
+    "tech": [
+      "Next.js",
+      "Vercel",
+      "GA4"
+    ],
+    "wapp": [
+      "Cloudflare",
+      "Vercel"
+    ]
+  },
+  {
+    "idx": 26,
+    "category": "Web2-社交",
+    "url": "https://github.com",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [],
+    "antibot_conf": {},
+    "tier": "tier1",
+    "captcha": false,
+    "tech": [
+      "GA4"
+    ],
+    "wapp": [
+      "React",
+      "Contentful",
+      "Ruby on Rails",
+      "GitHub Pages"
+    ]
+  },
+  {
+    "idx": 27,
+    "category": "Web2-社交",
+    "url": "https://www.reddit.com",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [],
+    "antibot_conf": {},
+    "tier": "tier1",
+    "captcha": false,
+    "tech": [
+      "GA4"
+    ],
+    "wapp": [
+      "Varnish"
+    ]
+  },
+  {
+    "idx": 28,
+    "category": "Web2-社交",
+    "url": "https://discord.com",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [
+      "Cloudflare"
+    ],
+    "antibot_conf": {
+      "Cloudflare": 50
+    },
+    "tier": "tier2",
+    "captcha": false,
+    "tech": [
+      "GA4"
+    ],
+    "wapp": [
+      "Cloudflare",
+      "Google Font API",
+      "jQuery",
+      "Webflow"
+    ]
+  },
+  {
+    "idx": 29,
+    "category": "Web2-社交",
+    "url": "https://twitter.com",
+    "status": "FETCH_FAILED[COOKIE_PARSE_ERROR]",
+    "intercept": true,
+    "antibot": [],
+    "antibot_conf": {},
+    "tier": "tier3",
+    "captcha": false,
+    "tech": [],
+    "wapp": []
+  },
+  {
+    "idx": 30,
+    "category": "Web2-社交",
+    "url": "https://www.linkedin.com",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [],
+    "antibot_conf": {},
+    "tier": "tier1",
+    "captcha": false,
+    "tech": [
+      "GA4"
+    ],
+    "wapp": []
+  },
+  {
+    "idx": 31,
+    "category": "Web2-社交",
+    "url": "https://www.twitch.tv",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [],
+    "antibot_conf": {},
+    "tier": "tier1",
+    "captcha": false,
+    "tech": [
+      "GA4"
+    ],
+    "wapp": []
+  },
+  {
+    "idx": 32,
+    "category": "Web2-电商",
+    "url": "https://www.amazon.com",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [],
+    "antibot_conf": {},
+    "tier": "tier1",
+    "captcha": false,
+    "tech": [
+      "CloudFront"
+    ],
+    "wapp": [
+      "Amazon Cloudfront",
+      "Amazon Web Services"
+    ]
+  },
+  {
+    "idx": 33,
+    "category": "Web2-电商",
+    "url": "https://www.shopify.com",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [
+      "Cloudflare"
+    ],
+    "antibot_conf": {
+      "Cloudflare": 50
+    },
+    "tier": "tier2",
+    "captcha": false,
+    "tech": [
+      "Shopify",
+      "GA4"
+    ],
+    "wapp": [
+      "Cloudflare",
+      "Cart Functionality"
+    ]
+  },
+  {
+    "idx": 34,
+    "category": "Web2-电商",
+    "url": "https://www.ebay.com",
+    "status": "FETCH_FAILED[ERR_ConnectionError]",
+    "intercept": true,
+    "antibot": [],
+    "antibot_conf": {},
+    "tier": "tier3",
+    "captcha": false,
+    "tech": [],
+    "wapp": []
+  },
+  {
+    "idx": 35,
+    "category": "Web2-电商",
+    "url": "https://store.steampowered.com",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [],
+    "antibot_conf": {},
+    "tier": "tier1",
+    "captcha": false,
+    "tech": [
+      "Nginx"
+    ],
+    "wapp": [
+      "jQuery",
+      "Nginx"
+    ]
+  },
+  {
+    "idx": 36,
+    "category": "Web2-旅游",
+    "url": "https://www.booking.com",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [],
+    "antibot_conf": {},
+    "tier": "tier1",
+    "captcha": false,
+    "tech": [
+      "CloudFront"
+    ],
+    "wapp": [
+      "Amazon Cloudfront",
+      "Amazon Web Services"
+    ]
+  },
+  {
+    "idx": 37,
+    "category": "Web2-旅游",
+    "url": "https://airbnb.com",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [
+      "DataDome"
+    ],
+    "antibot_conf": {
+      "DataDome": 20
+    },
+    "tier": "tier3",
+    "captcha": false,
+    "tech": [
+      "Nginx",
+      "GA4"
+    ],
+    "wapp": [
+      "Ruby on Rails",
+      "Envoy",
+      "Ruby",
+      "Nginx"
+    ]
+  },
+  {
+    "idx": 38,
+    "category": "Web2-流媒",
+    "url": "https://www.netflix.com",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [],
+    "antibot_conf": {},
+    "tier": "tier1",
+    "captcha": false,
+    "tech": [
+      "GA4"
+    ],
+    "wapp": [
+      "Zipkin",
+      "Envoy",
+      "OneTrust"
+    ]
+  },
+  {
+    "idx": 39,
+    "category": "Web2-企业",
+    "url": "https://stripe.com",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [],
+    "antibot_conf": {},
+    "tier": "tier1",
+    "captcha": false,
+    "tech": [
+      "Next.js",
+      "Nginx",
+      "GA4"
+    ],
+    "wapp": [
+      "Cart Functionality",
+      "Nginx"
+    ]
+  },
+  {
+    "idx": 40,
+    "category": "Web2-国内",
+    "url": "https://www.baidu.com",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [
+      "百度云盾"
+    ],
+    "antibot_conf": {
+      "百度云盾": 20
+    },
+    "tier": "tier2",
+    "captcha": false,
+    "tech": [
+      "GA4"
+    ],
+    "wapp": [
+      "Vue.js",
+      "jQuery"
+    ]
+  },
+  {
+    "idx": 41,
+    "category": "Web2-国内",
+    "url": "https://www.taobao.com",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [],
+    "antibot_conf": {},
+    "tier": "tier1",
+    "captcha": false,
+    "tech": [
+      "Fastly CDN"
+    ],
+    "wapp": [
+      "Tengine"
+    ]
+  },
+  {
+    "idx": 42,
+    "category": "Web2-国内",
+    "url": "https://www.jd.com",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [],
+    "antibot_conf": {},
+    "tier": "tier1",
+    "captcha": false,
+    "tech": [
+      "Nginx",
+      "GA4"
+    ],
+    "wapp": [
+      "Cart Functionality",
+      "jQuery",
+      "Nginx"
+    ]
+  },
+  {
+    "idx": 43,
+    "category": "Web2-国内",
+    "url": "https://www.bilibili.com",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [
+      "极验GeeTest"
+    ],
+    "antibot_conf": {
+      "极验GeeTest": 40
+    },
+    "tier": "tier2+captcha",
+    "captcha": true,
+    "tech": [
+      "GA4"
+    ],
+    "wapp": [
+      "Vue.js"
+    ]
+  },
+  {
+    "idx": 44,
+    "category": "Web2-国内",
+    "url": "https://www.zhihu.com",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [],
+    "antibot_conf": {},
+    "tier": "tier1",
+    "captcha": false,
+    "tech": [
+      "GA4"
+    ],
+    "wapp": [
+      "Baidu Analytics (百度统计)"
+    ]
+  },
+  {
+    "idx": 45,
+    "category": "Web2-国内",
+    "url": "https://www.weibo.com",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [],
+    "antibot_conf": {},
+    "tier": "tier1",
+    "captcha": false,
+    "tech": [
+      "Nginx"
+    ],
+    "wapp": [
+      "Nginx"
+    ]
+  },
+  {
+    "idx": 46,
+    "category": "Web2-国内",
+    "url": "https://www.163.com",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [],
+    "antibot_conf": {},
+    "tier": "tier1",
+    "captcha": false,
+    "tech": [
+      "Fastly CDN"
+    ],
+    "wapp": [
+      "Tengine",
+      "jQuery"
+    ]
+  },
+  {
+    "idx": 47,
+    "category": "Web2-国内",
+    "url": "https://www.douban.com",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [],
+    "antibot_conf": {},
+    "tier": "tier1",
+    "captcha": false,
+    "tech": [],
+    "wapp": [
+      "jQuery"
+    ]
+  },
+  {
+    "idx": 48,
+    "category": "Web2-国内",
+    "url": "https://www.qq.com",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [],
+    "antibot_conf": {},
+    "tier": "tier1",
+    "captcha": false,
+    "tech": [],
+    "wapp": [
+      "React"
+    ]
+  },
+  {
+    "idx": 49,
+    "category": "Web2-国内",
+    "url": "https://www.tiktok.com",
+    "status": "ok",
+    "intercept": false,
+    "antibot": [],
+    "antibot_conf": {},
+    "tier": "tier1",
+    "captcha": false,
+    "tech": [
+      "Nginx",
+      "GA4"
+    ],
+    "wapp": [
+      "React",
+      "Nginx"
+    ]
+  },
+  {
+    "idx": 50,
+    "category": "Web2-企业",
+    "url": "https://www.notion.so",
+    "status": "FETCH_FAILED[COOKIE_PARSE_ERROR]",
+    "intercept": true,
+    "antibot": [],
+    "antibot_conf": {},
+    "tier": "tier3",
+    "captcha": false,
+    "tech": [],
+    "wapp": []
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com",
+  "error_type": null,
+  "intercept_suspected": false,
+  "antibot": {
+    "极验GeeTest": {
+      "confidence": 40,
+      "tier": "tier2+captcha",
+      "evidence": [
+        "html:/static\\.geetest\\.com/ +40"
+      ]
+    }
+  },
+  "tech": {
+    "GA4": {
+      "confidence": 15,
+      "evidence": [
+        "html:/G-[A-Z0-9]{6,}/ +15"
+      ]
+    }
+  },
+  "wappalyzer": {
+    "Vue.js": {
+      "categories": [
+        "JavaScript frameworks"
+      ]
+    }
+  },
+  "tier_verdict": "tier2+captcha",
+  "need_captcha_solver": true
+}
